@@ -1,0 +1,9 @@
+Building ContainerCoin
+
+See doc/readme-qt.rst for instructions on building ContainerCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ContainerCoin.
+
+See doc/build-*.txt for instructions on building ContainerCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ContainerCoin.
